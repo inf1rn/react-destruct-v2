@@ -1,0 +1,30 @@
+.filter {
+    display: block;
+}
+
+.status-nav {
+    display: block;
+}
+
+.hide-mob {
+    display: block;
+}
+
+.search-filter__mob {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    .search-filter__mob {
+        display: block;
+    }
+}
+
+.select-component {
+    height: 100%;
+    width: 100%;
+}
+
+.h-100 {
+    height: 100%;
+}

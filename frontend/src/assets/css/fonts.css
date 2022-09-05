@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Gilroy";
+    src: url("//db.onlinewebfonts.com/t/1dc8ecd8056a5ea7aa7de1db42b5b639.eot");
+    src: url("//db.onlinewebfonts.com/t/1dc8ecd8056a5ea7aa7de1db42b5b639.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/1dc8ecd8056a5ea7aa7de1db42b5b639.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/1dc8ecd8056a5ea7aa7de1db42b5b639.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/1dc8ecd8056a5ea7aa7de1db42b5b639.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/1dc8ecd8056a5ea7aa7de1db42b5b639.svg#Gilroy") format("svg");
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("//db.onlinewebfonts.com/t/0744a43ed7aac352ec78c1404c890d72.eot");
+    src: url("//db.onlinewebfonts.com/t/0744a43ed7aac352ec78c1404c890d72.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/0744a43ed7aac352ec78c1404c890d72.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/0744a43ed7aac352ec78c1404c890d72.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/0744a43ed7aac352ec78c1404c890d72.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/0744a43ed7aac352ec78c1404c890d72.svg#Gilroy Light") format("svg");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("//db.onlinewebfonts.com/t/1064f0ad1cb65fdab43bb592ddd8aa91.eot");
+    src: url("//db.onlinewebfonts.com/t/1064f0ad1cb65fdab43bb592ddd8aa91.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/1064f0ad1cb65fdab43bb592ddd8aa91.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/1064f0ad1cb65fdab43bb592ddd8aa91.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/1064f0ad1cb65fdab43bb592ddd8aa91.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/1064f0ad1cb65fdab43bb592ddd8aa91.svg#Gilroy-Bold") format("svg");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
